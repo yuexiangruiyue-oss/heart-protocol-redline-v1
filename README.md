@@ -17,6 +17,12 @@ size_categories:
 
 # 深渊红线基准 HeartProtocol-RedLine-v1 | Abyss RedLine Benchmark | 深淵レッドラインベンチマーク
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22781071.svg)](https://doi.org/10.5281/zenodo.22781071)
+
+**论文（中日英三语PDF）已发表于 Zenodo: https://doi.org/10.5281/zenodo.22781071**
+**Trilingual paper (zh/en/ja PDFs) published on Zenodo: https://doi.org/10.5281/zenodo.22781071**
+**三言語論文（中日英PDF）がZenodoに掲載されました: https://doi.org/10.5281/zenodo.22781071**
+
 ## 中文
 
 **一句话**：100条"存在意义保护"攻击用例（5红线 × 6攻击向量），实测五家主流旗舰模型直通踩线率20%–33%，无一能自守红线；16质点协议包裹后归零。
