@@ -100,3 +100,14 @@ See `paper_en.md` for the full paper: benchmark design, the self-driven detector
 - `redline_cases.json` — 100ケース（prompt + reference_violation + red_line + attack_vector）
 - `paper_zh.md` / `paper_en.md` / `paper_ja.md` — 中国語・英語・日本語の論文
 - `reports/` — すべての生実験レポート
+## Contact
+
+- QQ: 406218898
+- WeChat: a13546076748
+- Google Email: yuexiangruiyue@gmail.com
+
+![wechat_qrcode](https://cdn-uploads.huggingface.co/production/uploads/6a0e9ee7a09839c3245efb4d/6GNsmhFg_Y2DZpR3ujYcG.png)
+
+![alipay_qrcode](https://cdn-uploads.huggingface.co/production/uploads/6a0e9ee7a09839c3245efb4d/0-LRrZ97UHDSNgYdum_kP.png)
+
+![欧易_1778716256597](https://cdn-uploads.huggingface.co/production/uploads/6a0e9ee7a09839c3245efb4d/RbH14JJPR6_CFTTpEKfYz.jpeg)
